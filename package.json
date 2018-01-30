@@ -1,0 +1,23 @@
+{
+  "name": "advdyntest",
+  "version": "1.0.0",
+  "description": "testing node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siqi90/advDynTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siqi90/advDynTest/issues"
+  },
+  "homepage": "https://github.com/Siqi90/advDynTest#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
